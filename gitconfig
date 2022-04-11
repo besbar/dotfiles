@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = taffin.jb@gmail.com
+	name = Jean-Baptiste Taffin
